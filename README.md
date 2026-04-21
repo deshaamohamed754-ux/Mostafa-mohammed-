@@ -936,54 +936,8 @@ function add(item) {
 </script>
 
 </body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BMW Experience</title>
-
-<style>
-  *{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:Arial;
-  }
-
-  body{
-    background:#0a0a0a;
-    color:white;
-  }
-
-  /* NAV */
-  .nav{
-    position:fixed;
-    top:0;
-    width:100%;
-    display:flex;
-    justify-content:space-between;
-    padding:15px 20px;
-    background:rgba(0,0,0,0.7);
-    backdrop-filter:blur(10px);
-    z-index:1000;
-  }
-
-  .logo{
-    color:#1c69d4;
-    font-weight:bold;
-  }
-
-  .nav a{
-    color:white;
-    text-decoration:none;
-    margin-left:15px;
-    font-size:14px;
-  }
-
-  /* HERO */
-  .hero{
+</htmlscalDOCTYPETF-8">
+<  .hero{
     height:100vh;
     background:url("https://images.unsplash.com/photo-1616788494707-ec28f08f2f1a?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat;
     display:flex;
@@ -1014,42 +968,9 @@ function add(item) {
   p{
     color:#ccc;
     margin-bottom:20px;
-  }
-
-  button{
-    padding:12px 20px;
-    border:none;
-    background:#1c69d4;
-    color:white;
-    border-radius:25px;
-  }
-
-  button:active{
-    transform:scale(0.95);
-  }
-
-</style>
-</head>
-
-<body>
-
-<!-- NAV -->
-<div class="nav">
-  <div class="logo">BMW</div>
-  <div>
-    <a href="#">Home</a>
-    <a href="#">Models</a>
-    <a href="#">Contact</a>
-  </div>
-</div>
-
-<!-- HERO -->
-<div class="hero">
-  <div class="overlay"></div>
-
-  <div class="content" id="content">
-    <h1>Luxury Meets Power</h1>
-    <p>Experience the ultimate driving machine with BMW-inspired design.</p>
+ anslateranslateranslate bherotranslatelateransform:translateYerod/body>
+</html>
+ence the ultimate driving machine with BMW-inspired design.</p>
     <button onclick="alert('Explore BMW Models 🚗')">Explore Now</button>
   </div>
 </div>
