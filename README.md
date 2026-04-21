@@ -445,3 +445,6 @@ footer {
   margin: 5px 0;
   font-size: 18px;
 }
+<a href="https://wa.me/01063353624" target="_blank">
+  Contact me on WhatsApp
+</a>
